@@ -33,6 +33,11 @@ h2 {
     border-bottom: 1px solid #3333;
 }
 
+h3 {
+    font-size: 0.9rem;
+    color: var(--brown-color);
+}
+
 .list1>li {
     margin: 0.5rem 0;
 }
@@ -50,6 +55,10 @@ h2 {
     border: 1px solid #3333;
     padding: 1rem;
     background: linear-gradient(180deg, rgba(223, 223, 223, 1) 0%, rgba(254, 254, 255, 1) 6%, rgba(255, 255, 255, 1) 94%, rgba(230, 230, 230, 1) 100%);
+}
+
+.main-section p {
+    font-size: smaller;
 }
 
 .menu-nav ul {
@@ -70,10 +79,11 @@ h2 {
     line-height: 30px;
     background: linear-gradient(180deg, white 0%, var(--green-color) 150%);
     border: 1px solid #3333;
-
+    color: #2e333f;
 }
 
-.menu-nav ul a:hover, .menu-nav ul a.active {
+.menu-nav ul a:hover,
+.menu-nav ul a.active {
     background: linear-gradient(180deg, white 0%, var(--brown-color) 150%);
 }
 
@@ -81,11 +91,10 @@ h2 {
     display: flex;
 }
 
-footer > p {
-	font-size: 13px;
-	text-align: center;
-	font-style: italic;
-	color: lightgray;
+footer>p {
+    font-size: 13px;
+    text-align: center;
+    font-style: italic;
+    color: lightgray;
     margin: 1rem 0 0 0;
-
 }
