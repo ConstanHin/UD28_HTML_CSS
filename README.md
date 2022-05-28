@@ -10,13 +10,13 @@ https://constanhin.github.io/UD28_HTML_CSS/
 
 ## UD28_2
 
-![image](https://user-images.githubusercontent.com/67373492/170825920-e8a659c4-bfea-448d-b0f5-ba1ac287d66d.png)
+![captura ejercicio 2](https://user-images.githubusercontent.com/67373492/170825920-e8a659c4-bfea-448d-b0f5-ba1ac287d66d.png)
 
 
 ## UD28_3-5
 
-![image](https://user-images.githubusercontent.com/67373492/170829462-5fdad5a9-58f4-40f4-b503-75de6e6cf2ae.png)
+![captura ejercicio 3-5](https://user-images.githubusercontent.com/67373492/170835306-6d5c76b4-59c2-4fbe-a07d-70af2aa04e3f.png)
 
 ## UD28_6-10
 
-![image](https://user-images.githubusercontent.com/67373492/170834141-1c8d2421-e173-4665-9847-962e8d87f893.png)
+![captura ejercicio 6-10](https://user-images.githubusercontent.com/67373492/170834141-1c8d2421-e173-4665-9847-962e8d87f893.png)
