@@ -1,6 +1,7 @@
 # UD28_HTML_CSS
 
-Para acceder a las diferentes páginas utilizar el siguiente menú:
+Para acceder a las diferentes páginas utilizar el menú del enlace:
+
 https://constanhin.github.io/UD28_HTML_CSS/
 
 ## UD28_1
