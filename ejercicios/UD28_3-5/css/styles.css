@@ -37,3 +37,24 @@ ul {
 .list1>li {
     margin: 0.5rem 0;
 }
+
+footer {
+    margin-top: 3rem;
+}
+
+.link {
+    display: block;
+    border: 1px solid #3333;
+    background-color: azure;
+    height: 30px;
+    line-height: 30px;
+    padding: 0.3rem;
+    box-shadow: 1px 1px 5px #3333;
+    text-decoration: none;
+    margin: auto;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    width: 250px;
+    text-align: center;
+    color: #2e333f;
+}
